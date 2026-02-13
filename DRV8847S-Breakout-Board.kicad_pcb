@@ -167,7 +167,7 @@
 	(net 22 "Net-(JP5-B)")
 	(net 23 "Net-(JP5-A)")
 	(net 24 "Net-(R3-Pad2)")
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "0394f7ec-d137-49f9-a542-21ad4cbeca3e")
 		(at 171.1 88.308333 -90)
@@ -505,7 +505,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(layer "F.Cu")
 		(uuid "08ba747f-c215-4fdb-9aca-2258e810d0ac")
 		(at 205 75)
@@ -620,7 +620,7 @@
 			(uuid "44529c98-b6e8-45d8-90f1-a29ea7608d70")
 		)
 	)
-	(footprint "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen"
+	(footprint "Library:OSHW-Logo2_7.3x6mm_SilkScreen"
 		(layer "F.Cu")
 		(uuid "0bb98ec4-f5b7-4f92-a947-09a4cdc653a6")
 		(at 205.1 82.4)
@@ -1073,7 +1073,7 @@
 			(uuid "590536bc-1947-4bc7-9e36-40b695159164")
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "1099cae2-11b0-47e3-bc7d-ebc56c75715f")
 		(at 172.8 90.025 -90)
@@ -1406,7 +1406,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "1185adaa-a8c4-460c-a140-bc88bc590e3f")
 		(at 181.093333 116.525 -90)
@@ -1691,7 +1691,7 @@
 			(uuid "c06f9485-61e0-4017-b6a7-e07a12ab4351")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "156cc0ed-64aa-4039-bf6c-b323ed5337f9")
 		(at 177.275 116)
@@ -1895,7 +1895,7 @@
 			(uuid "09eb4f7f-17d4-4f63-a8a0-f5e5d284c9c5")
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "1db11770-46a7-469e-9faa-4c47ce665b6a")
 		(at 170.8 101.641666 90)
@@ -2217,7 +2217,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "2a4aab08-1e03-4a8f-a044-9938b81ad035")
 		(at 165 102.966666 180)
@@ -2486,7 +2486,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "2a614ede-f631-4a53-8a8f-7bcc242de39b")
 		(at 199.2 91.7 -90)
@@ -2745,7 +2745,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "355c6e53-85b4-4f51-8d48-c5bba37da5b8")
 		(at 171.025 75 90)
@@ -3014,7 +3014,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "43f280c8-c9c2-4abb-b9cd-523a11b1f105")
 		(at 177.268333 113.075)
@@ -3218,7 +3218,7 @@
 			(uuid "f3ee1b03-9b28-4512-bab1-40a8b3c4a47e")
 		)
 	)
-	(footprint "Capacitor_SMD:C_0402_1005Metric"
+	(footprint "Library:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "48515957-7260-4b8a-a943-91855d1873be")
 		(at 189.55 95.02 90)
@@ -3465,7 +3465,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "4ab93eab-0bb6-4101-af7b-ea20e87d3172")
 		(at 165 87.033333)
@@ -3734,7 +3734,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "4e5ee6a5-90ce-4617-b471-6a35f38d085a")
 		(at 202.1 95.79 -90)
@@ -3977,7 +3977,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "4f99500f-0018-4534-87b4-80694dbce6fa")
 		(at 196.41 113.1)
@@ -4241,7 +4241,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "5d546c14-bf69-41e1-900f-2a4098942070")
 		(at 192.8 113.1 180)
@@ -4445,7 +4445,7 @@
 			(uuid "fa7a604c-4126-4994-84b1-8422e50dd324")
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "64798ee4-2ff1-4b92-b661-20144d5400e0")
 		(at 202.1 99.31 90)
@@ -4697,7 +4697,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6a29eaaa-f3f0-4fb0-a4cb-13eea9b0717b")
 		(at 189 113.49 -90)
@@ -4938,7 +4938,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(layer "F.Cu")
 		(uuid "6b3c1d85-89da-485e-8603-523a578248a1")
 		(at 165 75)
@@ -5053,7 +5053,7 @@
 			(uuid "a3241238-9f69-4b4b-8548-fb415aa7aee4")
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "76e015ae-6b14-4cc3-8743-ae9aad406e8a")
 		(at 172.8 99.975 -90)
@@ -5384,7 +5384,7 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(layer "F.Cu")
 		(uuid "7ec8ecfa-a944-4208-9c42-5eae2d2c54a4")
 		(at 205 115)
@@ -5499,7 +5499,7 @@
 			(uuid "9d3f79fb-83dc-43fe-95d9-b41cab9ca22e")
 		)
 	)
-	(footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+	(footprint "Library:MountingHole_3.2mm_M3_ISO14580"
 		(layer "F.Cu")
 		(uuid "95e46775-22c7-4666-aaa1-fc568919009c")
 		(at 165 115)
@@ -5614,7 +5614,7 @@
 			(uuid "78032fbd-1a88-44c8-b2cf-dbc88344ced2")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "98a44092-47cd-45a7-aa2f-646a770eca5b")
 		(at 192.8 116.1 180)
@@ -5818,7 +5818,7 @@
 			(uuid "06aabf65-880c-41b6-a288-18fbb5e8fae1")
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "9931aaec-f564-48f3-ae2a-57109e16f323")
 		(at 196.41 116.1)
@@ -6067,7 +6067,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "9bb64a46-3a9a-46c0-9151-9625e0e24b02")
 		(at 202.1 89.21 90)
@@ -6326,7 +6326,7 @@
 			)
 		)
 	)
-	(footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
+	(footprint "Library:TSSOP-16_4.4x5mm_P0.65mm"
 		(layer "F.Cu")
 		(uuid "a05cdeea-4dae-4f04-83b7-8c3d73702731")
 		(at 185 95)
@@ -6749,7 +6749,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "aa8a9796-ea90-46df-a64a-1a69ddb9076f")
 		(at 172.8 86.675 90)
@@ -7069,7 +7069,7 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Library:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "b9b8c14b-2704-49cc-b5b8-b37fd27d103a")
 		(at 190.95 95.02 90)
@@ -7329,7 +7329,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
+	(footprint "Library:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "c4f7b3ba-c6c8-4c75-8dca-5ebe8a84dd62")
 		(at 172.8 103.325 90)
@@ -7667,7 +7667,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c7154a7e-d4fa-48c2-b78b-80dae7140eed")
 		(at 205 88.65)
@@ -7980,7 +7980,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "c93888bc-de2e-4c00-bdbe-6ef440ca4c9a")
 		(at 173.71 116 180)
@@ -8243,7 +8243,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "cfc010d7-3b57-4e13-99a1-8df24c3a263a")
 		(at 199.2 93.69 -90)
@@ -8491,7 +8491,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e84d14ba-3f97-47c4-b495-5e6afcc0c368")
 		(at 181.093333 113.565 -90)
@@ -8745,7 +8745,7 @@
 			)
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f3a927b4-b5bd-4dfc-9038-5328dfe359b7")
 		(at 178.55 75 90)
@@ -9058,7 +9058,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "f549d86d-0372-43a5-ba66-4306120dcb30")
 		(at 189 116.55 -90)
@@ -9343,7 +9343,7 @@
 			(uuid "b185fc59-e4fb-4fe6-b338-c9845ec6df15")
 		)
 	)
-	(footprint "Resistor_SMD:R_0402_1005Metric"
+	(footprint "Library:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "fff17625-4ba2-465f-bb01-84f024def5a8")
 		(at 173.793333 113.075 180)
