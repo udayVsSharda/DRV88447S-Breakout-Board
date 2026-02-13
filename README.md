@@ -3,8 +3,8 @@ A DRV8847 Break-out Board for driving Stepper Motors, Brushed DC Motors and Sole
 ## Kicad Render
 ![3D Render](Documents/PCB-Top-Side-3D-Render.png)
 ## Credit
-[Uday Vivek Singh SHARDA](https://www.linkedin.com/in/uday-vivek-singh-sharda-988475122/)
-EENG2 ECAM LaSalle Lyon
+[Uday Vivek Singh SHARDA](https://www.linkedin.com/in/uday-vivek-singh-sharda-988475122/)  
+EENG2 P2029 ECAM LaSalle Lyon
 ## License
 Hardware design files in this repository are licensed under the CERN-OHL-P-2.0 license.
 See the LICENSE file for full terms.
